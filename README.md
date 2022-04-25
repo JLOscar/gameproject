@@ -6,8 +6,8 @@ Fill me in
 ## Packages
 [client](/packages/client/README.md)
 
-[server](packages/client/Readme.md)
+[server](packages/client/README.md)
 
-[shared](packages/client/Readme.md)
+[shared](packages/client/README.md)
 
-[db](packages/client/Readme.md)
+[db](packages/client/README.md)
