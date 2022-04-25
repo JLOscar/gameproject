@@ -4,7 +4,7 @@
 Fill me in
 
 ## Packages
-[Client](packages/client/readme.md)
+[client](packages/client/readme.md)
 
 [server](packages/client/readme.md)
 
