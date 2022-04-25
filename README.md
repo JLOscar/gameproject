@@ -4,10 +4,10 @@
 Fill me in
 
 ## Packages
-[client](packages/client/readme.md)
+[client](packages/client/Readme.md)
 
-[server](packages/client/readme.md)
+[server](packages/client/Readme.md)
 
-[shared](packages/client/readme.md)
+[shared](packages/client/Readme.md)
 
-[db](packages/client/readme.md)
+[db](packages/client/Readme.md)
