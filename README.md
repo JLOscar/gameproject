@@ -1,5 +1,7 @@
 # Gameproject
 
+Use yarn instead of npm, because lerna did not work with npm.
+
 ## Scripts
 Fill me in
 
